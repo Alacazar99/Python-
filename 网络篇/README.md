@@ -9,7 +9,7 @@ https://www.cnblogs.com/jesse131/p/9080925.html
 #### 三、	http有哪些版本，1.0和1.1有什么区别？
 https://blog.csdn.net/elifefly/article/details/3964766
 #### 四、	cookie和session了解吗？
-这篇写的非常好：https://www.cnblogs.com/wswang/p/6062461.html
+这篇写的非常好：https://www.cnblogs.com/wswang/p/6062461.html<br><br>
 •	Cookies是服务器在本地机器上存储的小段文本并随每一个请求发送至同一个服务器，是一种在客户端保持状态的方案。
 •	Cookie是访问某些网站以后在本地存储的一些与网站相关的信息
 #####  创建过程
