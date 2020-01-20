@@ -1,8 +1,8 @@
 ## 面试准备
-110道python面试真题：https://zhuanlan.zhihu.com/p/54430650
-后端面试题总汇：https://github.com/yongxinz/back-end-interview 
-【python_developer】:https://github.com/xiandong79/Python_Developer
-【Django面试题】：https://www.cnblogs.com/chongdongxiaoyu/p/9403399.html
+110道python面试真题：https://zhuanlan.zhihu.com/p/54430650 <br>
+后端面试题总汇：https://github.com/yongxinz/back-end-interview <br>
+【python_developer】:https://github.com/xiandong79/Python_Developer <br>
+【Django面试题】：https://www.cnblogs.com/chongdongxiaoyu/p/9403399.html <br>
 
 ### 一、	python中字典的底层是怎么实现的？三个基本操作的平均时间复杂度？
 https://blog.csdn.net/junjunba2689/article/details/82814166
