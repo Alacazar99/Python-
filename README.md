@@ -1,10 +1,6 @@
 ## 面试准备
 
-110道python面试真题：https://zhuanlan.zhihu.com/p/54430650 <br>
 
-后端面试题总汇：https://github.com/yongxinz/back-end-interview <br>
-【python_developer】:https://github.com/xiandong79/Python_Developer <br>
-【Django面试题】：https://www.cnblogs.com/chongdongxiaoyu/p/9403399.html <br>
 
 
 
@@ -15,6 +11,11 @@
 ## [- 网络篇](https://github.com/Alacazar99/Python-/tree/master/%E7%BD%91%E7%BB%9C%E7%AF%87)
 ##  [- 操作系统篇](https://github.com/Alacazar99/Python-/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AF%87)
 
+110道python面试真题：https://zhuanlan.zhihu.com/p/54430650 <br>
+
+后端面试题总汇：https://github.com/yongxinz/back-end-interview <br>
+【python_developer】:https://github.com/xiandong79/Python_Developer <br>
+【Django面试题】：https://www.cnblogs.com/chongdongxiaoyu/p/9403399.html <br>
 ## 算法思想
 排序（七种）：https://www.cnblogs.com/ltchu/p/6610576.html<br>
 **动态规划**：https://www.cnblogs.com/xiaoshen666/p/11014954.html<br>
