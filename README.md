@@ -6,6 +6,15 @@
 【python_developer】:https://github.com/xiandong79/Python_Developer <br>
 【Django面试题】：https://www.cnblogs.com/chongdongxiaoyu/p/9403399.html <br>
 
+
+
+- [Python基础篇](https://github.com/Alacazar99/Python-/tree/master/Python%E5%9F%BA%E7%A1%80%E7%AF%87)
+- [Linux篇](https://github.com/Alacazar99/Python-/tree/master/Linux%E7%AF%87)
+- [数据库篇](https://github.com/Alacazar99/Python-/tree/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AF%87)
+- [框架篇](https://github.com/Alacazar99/Python-/tree/master/%E6%A1%86%E6%9E%B6%E7%AF%87)
+- [网络篇](https://github.com/Alacazar99/Python-/tree/master/%E7%BD%91%E7%BB%9C%E7%AF%87)
+- [操作系统篇](https://github.com/Alacazar99/Python-/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AF%87)
+
 ## 算法思想
 排序（七种）：https://www.cnblogs.com/ltchu/p/6610576.html<br>
 **动态规划**：https://www.cnblogs.com/xiaoshen666/p/11014954.html<br>
@@ -26,10 +35,4 @@ https://www.cnblogs.com/gavanwanggw/p/7141358.html
 **深度优先搜索<br>
 广度优先搜索**
 
-- [Python基础篇](https://github.com/Alacazar99/Python-/tree/master/Python%E5%9F%BA%E7%A1%80%E7%AF%87)
-- [Linux篇](https://github.com/Alacazar99/Python-/tree/master/Linux%E7%AF%87)
-- [数据库篇](https://github.com/Alacazar99/Python-/tree/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AF%87)
-- [框架篇](https://github.com/Alacazar99/Python-/tree/master/%E6%A1%86%E6%9E%B6%E7%AF%87)
-- [网络篇](https://github.com/Alacazar99/Python-/tree/master/%E7%BD%91%E7%BB%9C%E7%AF%87)
-- [操作系统篇](https://github.com/Alacazar99/Python-/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AF%87)
 
