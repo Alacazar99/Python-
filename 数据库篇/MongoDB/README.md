@@ -1,5 +1,19 @@
 # MongoDB篇
+## 简介
+MongoDB是目前最好的面向文档的免费开源NoSQL数据库。
+如果你正准备参加MongoDB NoSQL数据库的技术面试，你最好看看下面的MongoDB NoSQL面试问答。
+这些MongoDB NoSQL面试问答涵盖了NoSQL数据库基本的概念，复制(Replication)，分片(Sharding)，事务和锁，跟踪分析工具(Profiler)，Nuances和日志等特性。
 
+## NoSQL数据库是什么意思?
+NoSQL是非关系型数据库，NoSQL = Not Only SQL。
+## NoSQL与RDBMS直接有什么区别?
+关系型数据库采用的结构化的数据，NoSQL采用的是键值对的方式存储数据。
+
+## 为什么要使用和不使用NoSQL数据库?说一说NoSQL数据库的几个优点?
+- 在处理非结构化/半结构化的大数据时；
+- 在水平方向上进行扩展时；
+- 随时应对动态增加的数据项时可以优先考虑使用NoSQL数据库；
+在考虑数据库的成熟度；支持；分析和商业智能；管理及专业性等问题时，应优先考虑关系型数据库。
 ## MongoDB成为最好NoSQL数据库的原因是什么?
 以下特点使得MongoDB成为最好的NoSQL数据库：
 
