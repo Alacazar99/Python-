@@ -1,7 +1,7 @@
 ## 数据库篇
 ### **[-【redis 面试题】](https://github.com/Alacazar99/Python-/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AF%87/Redies/README.md)**
 ###  **[-【Mysql面试题】](https://github.com/Alacazar99/Python-/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AF%87/MySQL%E7%AF%87/README.md)**
-###  **[-【MongoDB 面试题】](https://github.com/Alacazar99/Python-/edit/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AF%87/MongoDB/README.md)**
+###  **[-【MongoDB 面试题】](https://github.com/Alacazar99/Python-/blob/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AF%87/MongoDB/README.md)**
 
 #### 一、	数据库的事务，四种隔离机制，以及产生的问题？
 ##### 事务以及其属性：<br>
