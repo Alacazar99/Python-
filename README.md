@@ -4,12 +4,12 @@
 
 
 
-## [- Python基础篇](https://github.com/Alacazar99/Python-/tree/master/Python%E5%9F%BA%E7%A1%80%E7%AF%87)
-## [- Linux篇](https://github.com/Alacazar99/Python-/tree/master/Linux%E7%AF%87)
-## [- 数据库篇](https://github.com/Alacazar99/Python-/tree/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AF%87)
-##  [- 框架篇](https://github.com/Alacazar99/Python-/tree/master/%E6%A1%86%E6%9E%B6%E7%AF%87)
-## [- 网络篇](https://github.com/Alacazar99/Python-/tree/master/%E7%BD%91%E7%BB%9C%E7%AF%87)
-##  [- 操作系统篇](https://github.com/Alacazar99/Python-/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AF%87)
+## [- Python基础篇](https://github.com/Alacazar99/Python-/blob/master/Python%E5%9F%BA%E7%A1%80%E7%AF%87/REMADE.md)
+## [- Linux篇](https://github.com/Alacazar99/Python-/tree/master/Linux%E7%AF%87/REMADE.md)
+## [- 数据库篇](https://github.com/Alacazar99/Python-/tree/master/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AF%87/REMADE.md)
+##  [- 框架篇](https://github.com/Alacazar99/Python-/tree/master/%E6%A1%86%E6%9E%B6%E7%AF%87/REMADE.md)
+## [- 网络篇](https://github.com/Alacazar99/Python-/tree/master/%E7%BD%91%E7%BB%9C%E7%AF%87/REMADE.md)
+##  [- 操作系统篇](https://github.com/Alacazar99/Python-/tree/master/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E7%AF%87/REMADE.md)
 
 110道python面试真题：https://zhuanlan.zhihu.com/p/54430650 <br>
 
